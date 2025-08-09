@@ -1,0 +1,24 @@
+2025-08-10 01:05:06,015 - INFO - Processing file: N:\financial-data-parser\data\sample\KH_Bank.XLSX
+2025-08-10 01:05:06,085 - INFO -   Processing sheet: Sheet1
+2025-08-10 01:05:06,645 - ERROR - Failed to process sheet Sheet1: name 'parse_date' is not defined
+2025-08-10 01:05:06,647 - ERROR - Failed to process N:\financial-data-parser\data\sample\KH_Bank.XLSX: name 'parse_date' is not defined
+2025-08-10 01:05:06,648 - INFO - Processing file: N:\financial-data-parser\data\sample\Customer_Ledger_Entries_FULL.xlsx
+2025-08-10 01:05:06,769 - INFO -   Processing sheet: Customer Ledger Entries
+2025-08-10 01:05:08,323 - ERROR - Failed to process sheet Customer Ledger Entries: name 'parse_date' is not defined
+2025-08-10 01:05:08,375 - ERROR - Failed to process N:\financial-data-parser\data\sample\Customer_Ledger_Entries_FULL.xlsx: name 'parse_date' is not defined
+2025-08-10 01:10:00,567 - INFO - Processing file: N:\financial-data-parser\data\sample\KH_Bank.XLSX
+2025-08-10 01:10:00,610 - INFO -   Processing sheet: Sheet1
+2025-08-10 01:10:00,960 - ERROR - Failed to process sheet Sheet1: name 'parse_date' is not defined
+2025-08-10 01:10:00,960 - ERROR - Failed to process N:\financial-data-parser\data\sample\KH_Bank.XLSX: name 'parse_date' is not defined
+2025-08-10 01:10:00,962 - INFO - Processing file: N:\financial-data-parser\data\sample\Customer_Ledger_Entries_FULL.xlsx
+2025-08-10 01:10:01,084 - INFO -   Processing sheet: Customer Ledger Entries
+2025-08-10 01:10:02,536 - ERROR - Failed to process sheet Customer Ledger Entries: name 'parse_date' is not defined
+2025-08-10 01:10:02,536 - ERROR - Failed to process N:\financial-data-parser\data\sample\Customer_Ledger_Entries_FULL.xlsx: name 'parse_date' is not defined
+2025-08-10 01:11:30,378 - INFO - Processing file: N:\financial-data-parser\data\sample\KH_Bank.XLSX
+2025-08-10 01:11:30,434 - INFO -   Processing sheet: Sheet1
+2025-08-10 01:11:30,876 - ERROR - Failed to process sheet Sheet1: name 'parse_date' is not defined
+2025-08-10 01:11:30,877 - ERROR - Failed to process N:\financial-data-parser\data\sample\KH_Bank.XLSX: name 'parse_date' is not defined
+2025-08-10 01:11:30,878 - INFO - Processing file: N:\financial-data-parser\data\sample\Customer_Ledger_Entries_FULL.xlsx
+2025-08-10 01:11:30,993 - INFO -   Processing sheet: Customer Ledger Entries
+2025-08-10 01:11:32,753 - ERROR - Failed to process sheet Customer Ledger Entries: name 'parse_date' is not defined
+2025-08-10 01:11:32,754 - ERROR - Failed to process N:\financial-data-parser\data\sample\Customer_Ledger_Entries_FULL.xlsx: name 'parse_date' is not defined
