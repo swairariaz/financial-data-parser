@@ -11,11 +11,4 @@ A robust system for processing financial Excel files with intelligent type detec
 - 🗄️ SQLite storage with optimized indexing
 - 📊 Querying and aggregation capabilities
 - 📝 Comprehensive logging and error handling
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/financial-data-parser.git
-   cd financial-data-parser
    
